@@ -1,6 +1,4 @@
-Hey!, I’m Rohan Rathore.
+Hey! I'm Rohan Rathore.
 
-Currently i'm persuing My Bachelor degree in Technology at Sage University Indore.
-
-I'm interested in "Data Science" and some new Technologies . I skilled in "Data science".
-
+Currently, I'm pursuing my Bachelor's degree in Technology at Sage University, Indore.
+I'm passionate about "Data Science" and interested in exploring new technologies, but my main focus is on becoming skilled in "Data Science".
